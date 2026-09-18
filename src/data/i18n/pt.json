@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "tagline": "Criando experiências jogáveis independentes.",
+    "cta": "Ver Projetos"
+  },
+  "about": {
+    "title": "Sobre",
+    "body": "Ocko Games é um estúdio independente focado em criar jogos com identidade própria. Acreditamos que jogos pequenos podem ter grande impacto — cada projeto é uma oportunidade de explorar mecânicas, narrativas e experiências únicas."
+  },
+  "projects": {
+    "title": "Projetos",
+    "status_released": "Lançado",
+    "status_wip": "Em desenvolvimento",
+    "play": "Jogar →"
+  },
+  "contact": {
+    "title": "Contato"
+  }
+}

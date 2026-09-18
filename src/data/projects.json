@@ -1,0 +1,22 @@
+[
+  {
+    "name": { "pt": "My Minitomo", "en": "My Minitomo" },
+    "description": {
+      "pt": "Um gerador de cartas de feitiços para DnD 5e, com opções para ter imagens personalizadas!",
+      "en": "A spell card generator for DnD 5e, with options for custom images!"
+    },
+    "image": "",
+    "url": "",
+    "status": "wip"
+  },
+  {
+    "name": { "pt": "Keep My Chars", "en": "Keep My Chars" },
+    "description": {
+      "pt": "Uma aplicação no formato perfeito para tablets. Permite criação de fichas para RPG, com uma interface intuitiva e focada no jogo!",
+      "en": "An application perfectly suited for tablets. Allows creation of RPG character sheets, with an intuitive and game-focused interface!"
+    },
+    "image": "",
+    "url": "",
+    "status": "wip"
+  }
+]

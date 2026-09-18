@@ -1,0 +1,20 @@
+[
+  {
+    "key": "email",
+    "label": "Email",
+    "url": "dmartins143@gmail.com",
+    "icon_new": "/icons/email.png"
+  },
+  {
+    "key": "github",
+    "label": "GitHub",
+    "url": "https://github.com/diegom-ciandt",
+    "icon_new": "/icons/github.png"
+  },
+  {
+    "key": "linkedin",
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/diego-ocko-da-silva-97b58065",
+    "icon_new": "/icons/linkedin.png"
+  }
+]
