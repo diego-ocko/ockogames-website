@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Get the publisher ID from Netlify environment variables
-const pubId = process.env.VITE_GOOGLE_ADSENSE_VERIFICATION;
+const pubId = process.env.VITE_GOOGLE_ADSENSE_VERIFICATION.replace("ca-", "");
 
 if (!pubId) {
   console.error('❌ Error: VITE_GOOGLE_ADSENSE_VERIFICATION environment variable is missing.');
